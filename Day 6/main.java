@@ -1,4 +1,4 @@
-/* Question 1
+/*Question 1
 Sort the Collection
 students are provided with a challenge to sort the given arraylist in the lesser lines of code. Student with minimum lines will win , try to write a code for it in less lines and win
 
@@ -20,9 +20,9 @@ Sample input
 output
 
 List before sort: [1, 4, 5, 0]
-List after sort: [0, 1, 4, 5]  */
+List after sort: [0, 1, 4, 5]
 
-
+*/
 
 import java.util.*;
 public class Main {
